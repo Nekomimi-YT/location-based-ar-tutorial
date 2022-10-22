@@ -6,7 +6,8 @@ Using the AR.js tutorial found at: https://medium.com/chialab-open-source/build-
 This static location AR app is built entirely with HTML. The latitude and longitude coordinates are set to a location near me, and the deployment will only function with a camera mobile device (eg- your phone).  
 
 I have used the tutorial Pokemon model (Magnemite) and launched him in AR to animated-float in the room. 
-![Magnemite 1](/img/magnemite1.png)
+
+![Magnemite 1](/img/magnemite1_Medium.jpg)
 ![Magnemite 2](/img/magnemite2.png)
 
 To experience this app for yourself and in full motion: 
