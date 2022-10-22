@@ -8,7 +8,7 @@ This static location AR app is built entirely with HTML. The latitude and longit
 I have used the tutorial Pokemon model (Magnemite) and launched him in AR to animated-float in the room. 
 
 ![Magnemite 1](/img/magnemite1_Medium.jpg)
-![Magnemite 2](/img/magnemite2.png)
+![Magnemite 2](/img/magnemite2_Medium.jpg)
 
 To experience this app for yourself and in full motion: 
 * Copy the code and enter in your own location coordinates
